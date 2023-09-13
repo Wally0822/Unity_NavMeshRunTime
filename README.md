@@ -1,6 +1,6 @@
 ## <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white">
 
-## [ Wally_NavMeshRunTime ]
+## [ Unity_NavMeshRunTime ]
 ## 개요 : 
 게임에서 실시간으로 네비게이션 메쉬를 구성하고 조작하기 위해 아래 YouTube 튜토리얼을 참조하여 구현했습니다.
 <br>
